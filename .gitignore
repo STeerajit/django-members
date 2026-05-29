@@ -1,0 +1,23 @@
+# Python venv
+myproject/
+venv/
+env/
+.venv/
+.direnv/
+__pycache__/
+*.py[cod]
+.env
+
+# Django
+*.sqlite3
+staticfiles/
+media/
+local_settings.py
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
